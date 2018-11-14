@@ -24,12 +24,12 @@
     "product_vendor_enable": true,
     "share_image": "shopify:\/\/shop_images\/frankie-valentine-469917-unsplash.jpg",
     "social_facebook_link": "https:\/\/facebook.com\/www.usoft.com.np",
-    "social_twitter_link": "https:\/\/twitter.com\/usoftnepal",
+    "social_twitter_link": "https:\/\/twitter.com\/www.usoft.com.np",
     "social_pinterest_link": "",
-    "social_instagram_link": "https:\/\/instagram.com\/usoftnepal",
+    "social_instagram_link": "https:\/\/instagram.com\/www.usoft.com.np",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https:\/\/youtube.com\/user\/usoftnepal",
+    "social_youtube_link": "https:\/\/youtube.com\/user\/www.usoft.com.np",
     "social_vimeo_link": "",
     "share_facebook": true,
     "share_twitter": true,
@@ -111,11 +111,11 @@
               "link_list": "footer"
             }
           },
-          "social": {
-            "type": "social",
+          "1536293685674": {
+            "type": "text",
             "settings": {
-              "title": "Follow us",
-              "align": "left"
+              "title": "Call us",
+              "text": "<p><strong>Phone<\/strong>:<\/p>\n<p>01-4240896 \/ 01-4230661<\/p>\n<p><strong>Mobile<\/strong>:<\/p>\n<p>9851017516 \/ 9841235892<\/p>"
             }
           },
           "1536201766228": {
@@ -124,11 +124,11 @@
               "link_list": "privacy-policies"
             }
           },
-          "1536293685674": {
-            "type": "text",
+          "social": {
+            "type": "social",
             "settings": {
-              "title": "Call us",
-              "text": "<p><strong>Phone<\/strong>:<\/p>\n<p>01-4240896 \/ 01-4230661<\/p>\n<p><strong>Mobile<\/strong>:<\/p>\n<p>9851017516 \/ 9841235892<\/p>"
+              "title": "Follow us",
+              "align": "left"
             }
           }
         },
@@ -235,33 +235,33 @@
       "1536079802773": {
         "type": "map",
         "settings": {
-          "map_title": "USoft Computer Technology",
+          "map_title": "USoft Computer Technologys",
           "address": "<p><strong>Address<\/strong>:<\/p>\n<p>Tebahal, Newroad,<\/p>\n<p>Kathmandu,&nbsp; Nepal<\/p>\n<p>Sun - Fri, 9am - 7pm<\/p>\n<p>Saturday, closed<\/p>\n<p><\/p>",
           "map_address": "P837+45 Kathmandu",
           "button": "Directions",
           "show_pin": true,
           "api_key": "AIzaSyB_nh2LgXTarHwoHlUc_Ng3EyT_p3ypGPo",
-          "image": "",
+          "image": "shopify:\/\/shop_images\/frankie-valentine-469917-unsplash_5d449bc5-25c5-4825-8c0f-4620e1005607.jpg",
           "position": "center center"
         }
       },
       "1536080685714": {
         "type": "link-block",
         "blocks": {
-          "1536112809693": {
-            "type": "link_block",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/pawel-czerwinski-693739-unsplash.jpg",
-              "link": "shopify:\/\/collections\/men-fashion",
-              "cta_label": "Security Accessories"
-            }
-          },
           "1536080685714-0": {
             "type": "link_block",
             "settings": {
               "image": "shopify:\/\/shop_images\/angga-aditya-260770-unsplash.jpg",
               "link": "shopify:\/\/collections\/women-fashion",
               "cta_label": "Fashions"
+            }
+          },
+          "1536112809693": {
+            "type": "link_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pawel-czerwinski-693739-unsplash.jpg",
+              "link": "shopify:\/\/collections\/men-fashion",
+              "cta_label": "Security Accessories"
             }
           },
           "1536080685714-1": {
@@ -329,7 +329,7 @@
         "type": "video",
         "settings": {
           "button_label": "All New MacBook Pro",
-          "video_url": "https:\/\/vimeo.com\/192662028",
+          "video_url": "https:\/\/vimeo.com\/189462086",
           "cover_image": "shopify:\/\/shop_images\/working-at-night.jpg",
           "cover_image_position": "center center",
           "cover_image_height": "tall",
